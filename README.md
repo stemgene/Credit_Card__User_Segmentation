@@ -97,3 +97,15 @@ Assign meaningful values to the clusters
 * Carries a very low balance, if any
 * Makes small-to-moderate value purchases with multiple purchases per transaction
 * Is not likely to pay the balance in full each month
+
+## Summary and Actionable Insights
+Based on information from the Harvard Business Review and McKinsey Financial Services, these customer segments above align with standard credit card customer segments with well-documented behaviors, including response to incentives.
+* Average Users are most similar to the established "Self-Aware Avoiders" category of cardholder. They tend to avoid using credit cards, but still carry a moderate-to-high balance and are not likely to pay it off every month. They respond well to simplicity and transparency in fees, rates, and terms. They tend to use credit cards for short-term borrowing and respond well when they see the payoff horizon for major purchases, for example, cards that instantly calculate the scale and duration of monthly payments for a given purchase at the point of sale.
+
+* Target the Responsible High-Value user by offering convenience, premium network incentives through partner businesses and services, no foreign transaction fee, and low interest rates. They are willing to pay annual fees if they find the added convenience or status worthwhile.
+
+* The High Volume, Finanacially Stressed user is likely either a spendthrift or in a situation that requires credit card borrowing to pay for essentials. They value simplicity and transparency in fees, rates, and terms. McKinsey suggests a new type of reward for this group, rewards for imposing spending limits. This would encourage one-off purchase behavior rather than multiple, higher-value purchases so that they can pay down their debt.
+
+Target Inactive users carefully. If they carry a high balance without making purchases, they could be a "deal chaser" that moves their balances to take advantage of the best transfer rates for their existing balances without making new purchases. For these, make sure they feel they are getting the best deal. Alternatively, they could be recovering credit and paying down past expenditures, in which case, they are not likely to make purchases or cash advances. Big signup bonuses should be avoided** because they are not likely to spend the bonus using the new card, but low balance transfer rates would be attractive.
+
+Target the cash advancer with promotions offering no cash advance fees, low APR, the same APR for cash advances as for purchases.
