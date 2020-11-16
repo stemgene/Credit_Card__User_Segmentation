@@ -31,6 +31,9 @@ Cardholder data collected over the last 6 months. Especially interested in getti
   * Lotteries and "chances to win"
 
 ## Customer Segments
+
+![customer segments](https://github.com/stemgene/Credit_Card__User_Segmentation/blob/main/imgs/user_seg.png)
+
 ### Average user - Target with simplicity and transparency in fees, rates, and terms.
 * Type 1 - Many one-off purchases
 * Type 2 - multiple purchases per transaction
