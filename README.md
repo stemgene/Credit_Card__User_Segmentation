@@ -23,6 +23,22 @@ Cardholder data collected over the last 6 months. Especially interested in getti
 * Shapiro-Wilk Test for normality on original data
 * Unskew data
 
+## K-Means Clustering
+### Determine k using the elbow method
+k = 5 appears to be optimum
+![elbow](https://github.com/stemgene/Credit_Card__User_Segmentation/blob/main/imgs/elbow.png)
+### Run Kmeans for Tenure
+![kmeans](https://github.com/stemgene/Credit_Card__User_Segmentation/blob/main/imgs/kmeans.png)
+
+### Assign cluster number to the original dataset
+
+### RFM-type categorization by equal binning on K-Means Clusters
+Assign meaningful values to the clusters
+
+## Agglomerative hierarchical clustering
+![Dendrogram](https://github.com/stemgene/Credit_Card__User_Segmentation/blob/main/imgs/dendrogram.png)
+### RFM-type categorization by equal binning on hierarchical clusters
+
 ## Output
 * User segments, each with a target benefit to maximize new cardholder signups
 * Any promotions to acquire new cardholders need to be profitable and sustainable
