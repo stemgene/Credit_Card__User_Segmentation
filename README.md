@@ -14,6 +14,15 @@ Cardholder data collected over the last 6 months. Especially interested in getti
 * Downstream, the company makes money off of the interest paid on the balance
 * To maximize revenue, encourage behavior that results in large month-to-month balances
 
+## EDA (Exploratory Data Analysis)
+* Descriptive statistics
+* Check for data type
+* Check for missing or duplicated data
+* Vasulize data
+![vasulize data](https://github.com/stemgene/Credit_Card__User_Segmentation/blob/main/imgs/visualize_data.png)
+* Shapiro-Wilk Test for normality on original data
+* Unskew data
+
 ## Output
 * User segments, each with a target benefit to maximize new cardholder signups
 * Any promotions to acquire new cardholders need to be profitable and sustainable
